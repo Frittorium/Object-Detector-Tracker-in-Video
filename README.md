@@ -1,4 +1,4 @@
-# Object-Classifier-in-Video
+# Object Detector/Tracker in Video
 
 Offline desktop application that detects dogs in a prerecorded video, selects the first N distinct dogs, tracks them persistently, and produces a labelled video for playback and saving.
 
